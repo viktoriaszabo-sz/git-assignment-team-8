@@ -8,7 +8,7 @@ public static void main(String[] args) {
 		// Viktória Szabó's comment
 		// Sujan Tiwari's commnet
 		// Susha Andrei's comment
-		// Tiainen Jenina's commentpackage myproject;		
+		// Tiainen Jenina's comment		
 		
 		int i, j, rows;
 		 Scanner myObj = new Scanner(System.in);
